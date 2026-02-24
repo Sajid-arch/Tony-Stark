@@ -174,7 +174,7 @@ header {
     z-index: 0;
     pointer-events: none;
     -webkit-text-stroke: 3px var(--btn-bg-clr);
-    animation: shake 15s ease infinite;
+    animation: shake 5s ease infinite;
 }
 @keyframes shake {
 	0%{transform: translateY(-10px);}
@@ -770,4 +770,5 @@ header {
 
 
     /* Footer Style End */
+
 
